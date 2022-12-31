@@ -4,6 +4,7 @@ Hellow World 👋
 
 Get to know me.
 
+- 🌐 My portfolio: http://officialkelvinohemeng.netlify.app/
 - 🔭 I’m currently working on improving my skills as a developer with React and javascript
 - 🌱 I’m currently learning React and Javascript
 - 👯 I’m looking to collaborate on 
