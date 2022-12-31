@@ -4,10 +4,10 @@ Hellow World 👋
 
 Get to know me.
 
-- 🔭 I’m currently working on improving my skills as a developer with React and javascript
-- 🌱 I’m currently learning React and Javascript
-- 👯 I’m looking to collaborate on 
-- 📫 How to reach me: +233557552252
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love video games and playing basketball(PG) 🏀
+🔭 I’m currently working on improving my skills as a developer with React and javascript
+🌱 I’m currently learning React and Javascript
+👯 I’m looking to collaborate on 
+📫 How to reach me: kelvinohemeng59@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I love video games and playing basketball(PG) 🏀
 
