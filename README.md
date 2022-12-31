@@ -1,4 +1,4 @@
-Hi there 👋
+Hellow World 👋
 
 ### My name is Kelvin Ohemeng and I am a designer with a developer's mind and a developer with an artist soul.✨👌
 
