@@ -4,7 +4,7 @@ Hellow World 👋
 
 Get to know me.
 
-- 🌐 My portfolio: http://officialkelvinohemeng.netlify.app/
+- 🌐 My portfolio: https://kelvinohemeng.vercel.app/
 - 🔭 I’m currently working on improving my skills as a developer with React and javascript
 - 🌱 I’m currently learning every thing React and Javascript related
 - 📫 How to reach me: kelvinohemeng59@gmail.com
