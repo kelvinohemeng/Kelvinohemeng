@@ -1,6 +1,6 @@
 Hellow World 👋
 
-### JavaScript Developer
+### React/JavaScript Developer
 
 Get to know me.
 
