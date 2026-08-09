@@ -1,27 +1,38 @@
-Software Engineer & Interactive Designer
-
-
 ## Hey, I’m Kelvin 👋
 
-I’m a software engineer and interactive designer building end-to-end digital products across frontend, backend, databases, APIs, and deployment.
+**Software Engineer building polished digital products across engineering, interaction, and design.**
 
-My strongest background is in frontend engineering, where I work with React, Next.js, TypeScript, and modern web technologies. I also bring experience in UI design, motion, and visual systems, which helps me build products that are not only functional, but polished and intuitive.
+My strongest background is in frontend engineering, working primarily with React, Next.js, and TypeScript. My background in visual design and interaction helps me approach software from both the engineering and user-experience sides.
 
-I’m currently focused on growing deeper into full-stack software engineering while continuing to ship real products.
+I'm currently expanding deeper into full-stack product development while continuing to design, build, and ship real products.
+
+### Selected Projects
+
+**Anopa**  
+A free and open-source Shopify integration for Framer that connects Shopify product data with Framer CMS and reusable commerce components.
+
+`React` · `TypeScript` · `Convex` · `Shopify GraphQL` · `Sanity`
+
+→ View Anopa
 
 ### Core Stack
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
-**Backend & Data:** Supabase, Firebase, REST APIs, Shopify APIs  
-**Design & Interaction:** Figma, Framer, GSAP, Motion, Rive  
-**Tools:** Git, GitHub, Vercel, Cloudflare
+**Backend & Data:** Convex, Supabase, Firebase, REST & GraphQL APIs  
+**Platforms:** Shopify, Sanity, Framer  
+**Interaction & Design:** Figma, GSAP, Motion, Rive  
+**Infrastructure:** Git, GitHub, Vercel, Cloudflare
 
-### Currently Building
+### Currently
 
-- Full-stack software projects with frontend, backend, and database architecture
-- Anopa, a Shopify integration and component ecosystem for Framer
-- Interactive web experiences and digital products
+- Building a full-stack application to deepen my backend and systems experience
+- Maintaining and developing Anopa
+- Exploring product engineering across frontend, backend, and interaction design
 
-### Interested In
+### Open To
 
-Software Engineering · Full-Stack Development · Frontend Engineering · Product Engineering · Design Engineering
+Software Engineering · Frontend Engineering · Product Engineering · Design Engineering
+
+### Elsewhere
+
+Portfolio · LinkedIn · Contra · Framer
