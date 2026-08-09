@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="./assets/github-header.svg"
+    src="./assets/github-header.png"
     alt="Kelvin Ohemeng — Software Engineer"
     width="100%"
   />
