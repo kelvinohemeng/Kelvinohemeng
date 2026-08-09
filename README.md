@@ -17,7 +17,7 @@ Software engineer focused on building thoughtful digital products across fronten
 
 ## Selected Projects
 
-### [Anopa](ANOPA_URL) ↗
+### [[Anopa](ANOPA_URL)](https://github.com/kelvinohemeng/Anopa) ↗
 
 Commerce infrastructure connecting Shopify storefront data and purchasing flows with Framer. Conceived, designed, engineered, and shipped end-to-end.
 
