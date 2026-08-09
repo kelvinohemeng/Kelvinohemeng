@@ -1,38 +1,67 @@
-## Hey, I’m Kelvin 👋
+<!--
+  Kelvin Ohemeng / thegeneralyst
+  GitHub Profile README
+-->
 
-**Software Engineer building polished digital products across engineering, interaction, and design.**
+<p align="center">
+  <img
+    src="./assets/github-header.svg"
+    alt="Kelvin Ohemeng — Software Engineer"
+    width="100%"
+  />
+</p>
 
-My strongest background is in frontend engineering, working primarily with React, Next.js, and TypeScript. My background in visual design and interaction helps me approach software from both the engineering and user-experience sides.
+Software engineer focused on building thoughtful digital products across frontend systems, product architecture, and interaction.
 
-I'm currently expanding deeper into full-stack product development while continuing to design, build, and ship real products.
+---
 
-### Selected Projects
+## Selected Projects
 
-**Anopa**  
-A free and open-source Shopify integration for Framer that connects Shopify product data with Framer CMS and reusable commerce components.
+### [Anopa](ANOPA_URL) ↗
 
-`React` · `TypeScript` · `Convex` · `Shopify GraphQL` · `Sanity`
+Commerce infrastructure connecting Shopify storefront data and purchasing flows with Framer. Conceived, designed, engineered, and shipped end-to-end.
 
-→ View Anopa
+`TypeScript` · `React` · `Shopify` · `Framer`
 
-### Core Stack
+---
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
-**Backend & Data:** Convex, Supabase, Firebase, REST & GraphQL APIs  
-**Platforms:** Shopify, Sanity, Framer  
-**Interaction & Design:** Figma, GSAP, Motion, Rive  
-**Infrastructure:** Git, GitHub, Vercel, Cloudflare
+## Core Stack
 
-### Currently
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>TypeScript, React, Next.js</td>
+  </tr>
+  <tr>
+    <td><strong>Data & Commerce</strong></td>
+    <td>APIs, Supabase, Firebase, Sanity, Shopify</td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td>Cloudflare, Vercel</td>
+  </tr>
+  <tr>
+    <td><strong>Interaction & Design</strong></td>
+    <td>GSAP, Rive, Framer, Figma</td>
+  </tr>
+</table>
 
-- Building a full-stack application to deepen my backend and systems experience
-- Maintaining and developing Anopa
-- Exploring product engineering across frontend, backend, and interaction design
+---
 
-### Open To
+## Currently
 
-Software Engineering · Frontend Engineering · Product Engineering · Design Engineering
+- Preparing Anopa for open source
+- Deepening full-stack and product architecture skills
+- Exploring meaningful open-source contributions
 
-### Elsewhere
+---
 
-Portfolio · LinkedIn · Contra · Framer
+## Open To
+
+Software engineering roles · Frontend & design-engineering roles · Product-focused engineering · Select collaborations
+
+---
+
+## Elsewhere
+
+[Portfolio](https://thegeneralyst.com) ↗ · [LinkedIn](https://www.linkedin.com/in/kelvinohemeng/) ↗ · [Contra](https://freelance.thegeneralyst.com) ↗ · [Email](mailto:kelvinohemeng59@gmail.com)
