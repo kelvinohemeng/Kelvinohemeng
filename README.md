@@ -15,7 +15,7 @@ Software engineer focused on building thoughtful digital products across fronten
 
 ---
 
-## Selected Projects
+## Selected Project
 
 ### [Anopa](https://github.com/kelvinohemeng/Anopa) ↗
 
@@ -50,7 +50,6 @@ Commerce infrastructure connecting Shopify storefront data and purchasing flows 
 
 ## Currently
 
-- Preparing Anopa for open source
 - Deepening full-stack and product architecture skills
 - Exploring meaningful open-source contributions
 
